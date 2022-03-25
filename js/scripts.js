@@ -8,7 +8,7 @@ $(document).ready(function() {
   const fifthQuestion = $("#question5").val();
   
   if(firstQuestion === "coffee" && secondQuestion === "dogs" && thirdQuestion === "summer" && fourthQuestion === "heights" && fifthQuestion === "swimming") {
-    alert("python");
+    $("#python").show();
   }
 });
 })
