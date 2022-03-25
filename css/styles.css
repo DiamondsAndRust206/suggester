@@ -1,0 +1,34 @@
+#python {
+    display: none;
+}
+
+#javascript {
+    display: none;
+}
+
+#ruby {
+    display: none;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+    text-decoration: underline;
+    color:darkblue;
+}
+
+h2 {
+    text-align: center;
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color:azure;
+    text-indent: 10px;
+}
+
+button {
+    border-radius: 10px;
+    margin-left: 20px;
+}
